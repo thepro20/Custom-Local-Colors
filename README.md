@@ -22,6 +22,6 @@ Explore the full range of **c o l o r s** :
 * **Controller** - press the **Y** button to enable/disable random mode ~
 6\. Press ***Enter*** or ***Play*** or ***A*** and **ENJOY**
 
-And that's it! **no config needed‼️  :D**
+And that's it! **no config needed!!  :D**
 
 If you have any more questions feel free to ask! my discord is *@\_ThEpRo_*
