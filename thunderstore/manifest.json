@@ -1,0 +1,9 @@
+{
+    "name": "Custom Local Colors",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thepro20/DoubleJump",
+    "description": "Allows the player to jump mid-air",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
